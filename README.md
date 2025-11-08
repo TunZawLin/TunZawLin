@@ -103,11 +103,16 @@ Make sure "TunZawLin" is your correct GitHub username.
 
 <h2>🐍 Here's a Snake Eating My Contributions</h2>
 
-
+<!--
+This is the magic snake!
+It will only work *after* you set up the GitHub Action. See the note below.
+-->
 
 <p>
-<img src="https://www.google.com/search?q=https://github.com/TunZawLin/TunZawLin/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+<!-- FIXED LINK: Removed 'https://www.google.com/search?q=' -->
+<img src="https://github.com/TunZawLin/TunZawLin/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </p>
+
 </div>
 
 <div align="center">
