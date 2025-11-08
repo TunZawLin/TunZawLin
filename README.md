@@ -107,8 +107,8 @@ Make sure "TunZawLin" is your correct GitHub username.
 This is the magic snake!
 It will only work *after* you set up the GitHub Action. See the note below.
 -->
-
 <p>
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 <!-- FIXED LINK: Removed 'https://www.google.com/search?q=' -->
 <img src="https://github.com/TunZawLin/TunZawLin/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </p>
