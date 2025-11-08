@@ -41,19 +41,6 @@
 <p>🛰️ <strong>Space Data Visualizer (concept)</strong> – A data dashboard combining astronomy + computing</p>
 <p>💻 <strong>Portfolio Website</strong> – Personal web project using React & TailwindCSS</p>
 
-</div>
-
-<div align="center">
-
-<h2>📊 GitHub Stats</h2>
-
-<p>
-<!-- Main GitHub Stats with safe hide flags -->
-<img src="https://github-readme-stats.vercel.app/api?username=tunzawlin&show_icons=true&theme=pacman&include_all_commits=true&count_private=true&hide=prs,issues,contribs" width="48%">
-
-<!-- Top Languages (compact) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunzawlin&layout=compact&theme=pacman&hide=html,css" width="48%">
-</p>
 
 </div>
 
