@@ -2,8 +2,9 @@
 
 <h1>👋 Hey there! I'm Tun Zaw Lin 🚀</h1>
 
-<p>
-<img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg2M3FoYzQya3A4bTNoaW5mbHk4OGh0azA1M2Y5eTczZ2hhYjBpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" />
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a84add3f-600c-4b4c-ae0b-443daaafce06" width="400" alt="Waving Octocat">
 </p>
 
 <p>Welcome to my little corner on GitHub — where code, creativity, and curiosity meet.</p>
