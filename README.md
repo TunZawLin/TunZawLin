@@ -48,8 +48,11 @@
 <h2>📊 GitHub Stats</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=TunZawLin&show_icons=true&theme=pacman&include_all_commits=true&count_private=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunZawLin&layout=compact&theme=pacman" width="48%">
+<!-- Main GitHub Stats with safe hide flags -->
+<img src="https://github-readme-stats.vercel.app/api?username=tunzawlin&show_icons=true&theme=pacman&include_all_commits=true&count_private=true&hide=prs,issues,contribs" width="48%">
+
+<!-- Top Languages (compact) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunzawlin&layout=compact&theme=pacman&hide=html,css" width="48%">
 </p>
 
 </div>
