@@ -46,7 +46,7 @@
 # 👋 Hey there! I'm Tun Zaw Lin 🚀  
 
 Welcome to my little corner on GitHub — where code, creativity, and curiosity meet.  
-I’m a **Computer Engineering student in Korea 🇰🇷**, originally from **Myanmar 🇲🇲**,  
+I’m a **Computer Science & Engineering student in Korea 🇰🇷**, originally from **Myanmar 🇲🇲**,  
 and I love exploring the bridge between **technology and the universe 🌌**.
 
 ---
@@ -105,15 +105,6 @@ I also enjoy learning languages — I speak **English** and **Burmese**, and I�
 ## 📝 Latest Blog Posts  
 
 *(coming soon… maybe a blog about how space inspired my love for coding 🚀)*  
-
----
-
-## 🌐 Connect with Me  
-
-💼 **LinkedIn:** [linkedin.com/in/tunzawlin](#)  
-📧 **Email:** tunzawlin@example.com  
-💬 **Discord:** TunZawLin#0000  
-🐦 **Twitter/X:** [@TunZawLin](#)  
 
 ---
 
