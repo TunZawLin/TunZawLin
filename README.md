@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1>👋 Hey there! I'm Tun Zaw Lin 🚀</h1>
-https://github.com/TunZawLin/TunZawLin/edit/main/README.md
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a84add3f-600c-4b4c-ae0b-443daaafce06" width="400" alt="Waving Octocat">
