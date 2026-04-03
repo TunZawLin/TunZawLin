@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 Hey there! I'm Tun Zaw Lin 🚀</h1>
-
+https://github.com/TunZawLin/TunZawLin/edit/main/README.md
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a84add3f-600c-4b4c-ae0b-443daaafce06" width="400" alt="Waving Octocat">
@@ -43,24 +43,6 @@
 
 </div>
 
-<div align="center">
-
-<h2>🕓 Recent Activity</h2>
-
-<p>🧩 Learning about <strong>Linux and system management</strong></p>
-<p>🔭 Researching ways to connect <strong>AI with astronomy data</strong></p>
-<p>⚙️ Experimenting with <strong>frontend UI/UX designs</strong></p>
-<p>🎯 Studying <strong>algorithms</strong> and <strong>network fundamentals</strong></p>
-
-</div>
-
-<div align="center">
-
-<h2>📝 Latest Blog Posts</h2>
-
-<p><em>(coming soon… maybe a blog about how space inspired my love for coding 🚀)</em></p>
-
-</div>
 
 <div align="center">
 <blockquote>
