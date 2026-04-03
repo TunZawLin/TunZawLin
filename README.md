@@ -34,17 +34,6 @@
 
 <div align="center">
 
-<h2>🚀 Top Projects</h2>
-
-<p>⭐ <strong>Dual-Boot Setup Guide</strong> – My first Linux + Windows experiment for coding stability</p>
-<p>🛰️ <strong>Space Data Visualizer (concept)</strong> – A data dashboard combining astronomy + computing</p>
-<p>💻 <strong>Portfolio Website</strong> – Personal web project using React & TailwindCSS</p>
-
-
-</div>
-
-<div align="center">
-
 <h2>🐍 Snake Contribution Grid</h2>
 
 <p>
